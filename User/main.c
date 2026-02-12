@@ -1,6 +1,6 @@
 #include "stdafx.h"
 
-// [11/10] PRODUCTION SPOOFER - ZERO DETECTION VECTORS
+// PRODUCTION SPOOFER - ZERO DETECTION VECTORS
 // No system(), no TerminateProcess, no obvious patterns, no printf
 
 #define STATUS_SUCCESS 0x00000000
